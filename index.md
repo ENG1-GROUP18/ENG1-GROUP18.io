@@ -1,6 +1,6 @@
 cayman theme for jakyll, to change just follow steps in the README.md
 
-<img src="https://github.com/ENG1-GROUP18/ENG1-GROUP18.io/blob/main/assets/Logo.png" title="woah" width="200">
+<img src="https://github.com/ENG1-GROUP18/ENG1-GROUP18.io/blob/main/assets/Logo.png" width="200">
 
 can do some ***cool*** stuff because we are using markdown now
 
