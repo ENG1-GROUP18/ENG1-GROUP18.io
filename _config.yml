@@ -1,6 +1,6 @@
 title: Sea Dogs
 description: Group 18
-show_downloads: true
+show_downloads: false
 logo: assets/Logo.png
 
 remote_theme: pages-themes/cayman@v0.2.0
