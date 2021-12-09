@@ -1,6 +1,19 @@
 # Overview
 Hey, this website will contain links to the deliverables as well as an overview of our gant charts and group progress.
 
+# Placeholder Links to furture pdf's
+[Requirements]()  
+[Architecture]()  
+[Method selection and planning]()  
+[Risk assessment and mitigation]()  
+[Missing Features]()  
+
+## Downloads
+[.jar]()  
+[.zip]()  
+
+
+
 # Gant Chart Updates
 ## Week Begining 22nd November 2021
 <img src="https://raw.githubusercontent.com/ENG1-GROUP18/ENG1-GROUP18.io/main/assets/26-11-2021_Gant Chart.svg">
