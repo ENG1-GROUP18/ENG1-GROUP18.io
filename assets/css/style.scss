@@ -10,8 +10,8 @@
   }
 
   @include large {
-    max-width: 64rem;
-    padding: 2rem 6rem;
+    max-width: 74rem;
+    padding: 2rem 2rem;
     margin: 0 auto;
     font-size: 1.1rem;
   }
@@ -53,7 +53,7 @@
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: normal;
-    color: #ff0000;
+    color: $section-headings-color;
   }
 
   p {
