@@ -1,12 +1,12 @@
 # Overview
 Hey, this website will contain links to the deliverables as well as an overview of our gant charts and group progress.
 
-# Placeholder Links to furture pdf's
-[Requirements]()  
-[Architecture]()  
-[Method selection and planning]()  
-[Risk assessment and mitigation]()  
-[Missing Features]()  
+# Links to pdf's of deliverables
+[Requirements](https://raw.githubusercontent.com/ENG1-GROUP18/ENG1-GROUP18.io/main/assets/Req1.pdf)  
+[Architecture](https://raw.githubusercontent.com/ENG1-GROUP18/ENG1-GROUP18.io/main/assets/Arch1.pdf)  
+[Method selection and planning](https://raw.githubusercontent.com/ENG1-GROUP18/ENG1-GROUP18.io/main/assets/Plan1.pdf)  
+[Risk assessment and mitigation](https://raw.githubusercontent.com/ENG1-GROUP18/ENG1-GROUP18.io/main/assets/Risk1.pdf)  
+[Missing Features](https://raw.githubusercontent.com/ENG1-GROUP18/ENG1-GROUP18.io/main/assets/Impl1.pdf)  
 
 ## Downloads
 [.jar]()  
