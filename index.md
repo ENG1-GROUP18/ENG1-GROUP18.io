@@ -8,10 +8,6 @@ Hey, this website will contain links to the deliverables as well as an overview 
 [Risk assessment and mitigation](https://raw.githubusercontent.com/ENG1-GROUP18/ENG1-GROUP18.io/main/assets/Risk1.pdf)  
 [Missing Features](https://raw.githubusercontent.com/ENG1-GROUP18/ENG1-GROUP18.io/main/assets/Impl1.pdf)  
 
-## Downloads
-[.jar]()  
-[.zip]()  
-
 
 
 # Gant Chart Updates
